@@ -10,6 +10,8 @@ Also, this project is implemented in React.
 
 The back-end code is deployed in Heroku and available [here](https://github.com/akmami/movie-rater-udemy)
 
+Also, the mobile application written in React Native is also added under the [MovieRaterMobile](https://github.com/akmami/movie-rater-web/tree/main/MovieRaterMobile) directory.
+
 ## Available Scripts
 
 In the project directory, you can run:
