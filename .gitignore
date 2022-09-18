@@ -26,3 +26,9 @@ yarn-error.log*
 # firebase
 .firebaserc
 firebase.json
+
+# mobile application
+/MovieRaterMobile/.expo
+/MovieRaterMobile/package-lock.json
+/MovieRaterMobile/yarn.lockgit
+/MovieRaterMobile/node_modules
